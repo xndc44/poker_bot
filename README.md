@@ -2,6 +2,8 @@ CSC 4444
 
 A Texas Hold'Em poker game in Python
 
+by Patrick Adeosun, Kendall Comeaux, Tristan Evans, John Gravois, Olabode Ige, Matthew Mccoy, Austin Mestayer, Kohl Morris, Vaughn Ohlerking, Trevor Spinosa
+
 Poker.py is the game engine and deck/player generator.
 
 Handles side pots
